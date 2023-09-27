@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Butter Chicken",
+        "price": 13,
+        "availability": "yes"
+    },
+    {
+        "id": 2,
+        "name": "Chicken Biryani",
+        "price": 115,
+        "availability": "yes"
+    },
+    {
+        "id": 3,
+        "name": "Paneer Tikka",
+        "price": 22,
+        "availability": "yes"
+    },
+    {
+        "id": 6,
+        "name": "Chicken Tikka Masala",
+        "price": 90,
+        "availability": "yes"
+    },
+    {
+        "id": 7,
+        "name": "Aloo Gobi",
+        "price": 12,
+        "availability": "yes"
+    },
+    {
+        "id": 8,
+        "name": "Palak Paneer",
+        "price": 45,
+        "availability": "yes"
+    }
+]
